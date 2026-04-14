@@ -1,4 +1,4 @@
-# Hey, I'm Jude 👋
+# Jude Hawkins
 
 Self-taught developer working through the fundamentals and building real projects along the way.
 Based in Paris, speak English and French.
