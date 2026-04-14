@@ -1,8 +1,7 @@
 # Hey, I'm Jude 👋
 
 Self-taught developer working through the fundamentals and building real projects along the way.
-
-I don't have all the answers yet — but I'm showing up every day, writing code, and figuring it out.
+Based in Paris, speak English and French.
 
 ## 🛠 What I'm Working With
 
